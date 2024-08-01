@@ -1,6 +1,6 @@
 import { createContext, useContext, useEffect, useState } from "react";
 
-const backendUrl = "http://localhost:3000";
+const backendUrl = "https://web-production-eac19.up.railway.app/";
 
 const ChatContext = createContext();
 
